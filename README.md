@@ -15,8 +15,8 @@
 
 # I use:
 ###
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://repos.21-school.ru/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aredicus)
 <!--
 **Aredicus/Aredicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
