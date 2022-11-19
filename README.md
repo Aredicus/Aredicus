@@ -1,7 +1,7 @@
 # ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 [𝔻𝕒𝕟𝕚𝕝𝕒](https://t.me/Drosenber/)
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science++21+school+student)](https://git.io/typing-svg)
 #About me:
-### Currently studying in School_21 by Sber based on School_42 ![42](https://user-images.githubusercontent.com/44028560/202864164-66702b74-7083-4438-8d7b-27c68f4e41b3.svg)
+### Currently studying in School_21 by Sber based on School_42
 
 # 💻 Tech Stack:
 ###
